@@ -1,0 +1,109 @@
+
+body {
+    background-color: #7B96AB;
+    font-family: Tahoma;
+}
+
+
+
+#panel {
+    width: 400px; 
+    margin: 0 auto; 
+    padding: 15px 0 0;
+    background: #fff;
+    border: 1px solid silver;
+    font: 16px calibri;
+    letter-spacing: -1px;
+    -webkit-box-shadow: 0 0 2px silver; 
+    -moz-box-shadow: 0 0 2px silver; 
+    box-shadow: 0 0 2px silver;
+
+
+}
+
+
+#panel2 {
+    width: 500px; 
+    margin: 0 auto; 
+    padding: 15px 0 0;
+    background: #eceff1;
+    border: 1px solid silver;
+    font: 16px calibri;
+    letter-spacing: -1px;
+    -webkit-box-shadow: 0 0 2px silver; 
+    -moz-box-shadow: 0 0 2px silver; 
+    box-shadow: 0 0 2px silver;
+
+
+}
+#panel3 {
+    width: 200px; 
+    display: block;
+    height: 50px;
+    background: #4C667A;
+    border: 30px  white;
+    font: 30px calibri;
+
+
+}
+
+#panel4 {
+    width: 350px; 
+    display: block;
+    height: 50px;
+    background: #4C667A;
+    border: 30px  white;
+    font: 30px calibri;
+
+
+}
+form {
+    margin: 0;
+}
+
+label {
+    display: block;
+    width: 260px;
+    padding: 10px 20px;
+    color: #696969;
+    font-size: 16px;
+    text-shadow: 0 0 1px silver;
+}
+label2 {
+
+    width: 260px;
+    padding: 10px 20px;
+    color: #696969;
+    font-size: 16px ;
+
+
+}
+
+#dep
+{
+    display: block;
+    width: 100px; 
+    margin: 0 auto;
+    padding: 10px 5px;
+    border: 1px solid silver;
+    outline: 5px solid #ebebeb;
+    font-size: 22px;
+}
+
+#user, #pass,#firstName,#lastName,#deposit,#withdraw,#transfer {
+    display: block;
+    width: 360px; 
+    margin: 0 auto;
+    padding: 10px 5px;
+    border: 1px solid silver;
+    outline: 5px solid #ebebeb;
+    font-size: 22px;
+}
+
+
+#lower {
+    background: #ecf2f5;
+    width: 360px;
+    padding: 5px 20px;
+    margin-top: 20px;
+}
